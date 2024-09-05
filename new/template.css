@@ -1,0 +1,19 @@
+    body{
+        background-color: teal;
+    }
+    table, tr, td{
+    border: 2px solid black;
+    background-color: antiquewhite;
+    }
+    h3 {
+    color:darkslategrey;
+    font:italic;
+    }
+    
+  
+  p {
+    background-color: antiquewhite;
+    color: black;
+    border-style:solid;
+    border-radius: 10px;
+    }
